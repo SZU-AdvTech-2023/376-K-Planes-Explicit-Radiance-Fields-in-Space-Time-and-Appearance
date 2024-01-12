@@ -1,0 +1,7 @@
+@inproceedings{REPO376,
+    author = "Fridovich-Keil, Sara and Meanti, Giacomo and Warburg, Frederik Rahb{\ae}k and Recht, Benjamin and Kanazawa, Angjoo",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "12479--12488",
+    title = "{K-planes: Explicit radiance fields in space, time, and appearance}",
+    year = "2023"
+}
